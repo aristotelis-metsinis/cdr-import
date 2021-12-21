@@ -1,5 +1,5 @@
 
-#CDRs import script
+## CDRs import script
 
 The script imports CDRs produced by a service application. 
 * It may run for example once per day through "cron".
